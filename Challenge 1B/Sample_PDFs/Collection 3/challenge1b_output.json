@@ -1,0 +1,67 @@
+{
+  "metadata": {
+    "input_documents": [
+      "Breakfast Ideas.pdf",
+      "Dinner Ideas - Mains_1.pdf",
+      "Dinner Ideas - Mains_2.pdf",
+      "Dinner Ideas - Mains_3.pdf",
+      "Dinner Ideas - Sides_1.pdf",
+      "Dinner Ideas - Sides_2.pdf",
+      "Dinner Ideas - Sides_3.pdf",
+      "Dinner Ideas - Sides_4.pdf",
+      "Lunch Ideas.pdf"
+    ],
+    "persona": "Food Contractor",
+    "job_to_be_done": "Prepare a vegetarian buffet-style dinner menu for a corporate gathering, including gluten-free items.",
+    "processing_timestamp": "2025-07-28T22:03:53.463480"
+  },
+  "extracted_sections": [
+    {
+      "document": "doc01",
+      "section_title": "Chicken Caesar Wrap",
+      "importance_rank": 1,
+      "page_number": 1
+    },
+    {
+      "document": "doc01",
+      "section_title": "Chicken and Avocado Wrap  Ingredients:",
+      "importance_rank": 2,
+      "page_number": 1
+    },
+    {
+      "document": "doc01",
+      "section_title": "Instructions:",
+      "importance_rank": 3,
+      "page_number": 1
+    },
+    {
+      "document": "doc01",
+      "section_title": "Instructions:",
+      "importance_rank": 4,
+      "page_number": 1
+    },
+    {
+      "document": "doc01",
+      "section_title": "Instructions:",
+      "importance_rank": 5,
+      "page_number": 1
+    }
+  ],
+  "subsection_analysis": [
+    {
+      "document": "doc01",
+      "refined_text": "Prepare a vegetarian buffet-style dinner menu for a corporate gathering, including gluten-free items.",
+      "page_number": 1
+    },
+    {
+      "document": "doc01",
+      "refined_text": "Prepare a vegetarian buffet-style dinner menu for a corporate gathering, including gluten-free items.",
+      "page_number": 1
+    },
+    {
+      "document": "doc01",
+      "refined_text": "Prepare a vegetarian buffet-style dinner menu for a corporate gathering, including gluten-free items.",
+      "page_number": 1
+    }
+  ]
+}

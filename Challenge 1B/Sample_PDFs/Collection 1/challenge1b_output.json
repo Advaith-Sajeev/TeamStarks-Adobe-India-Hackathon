@@ -1,0 +1,75 @@
+{
+  "metadata": {
+    "input_documents": [
+      "South of France - Cities.pdf",
+      "South of France - Cuisine.pdf",
+      "South of France - History.pdf",
+      "South of France - Restaurants and Hotels.pdf",
+      "South of France - Things to Do.pdf",
+      "South of France - Tips and Tricks.pdf",
+      "South of France - Traditions and Culture.pdf"
+    ],
+    "persona": "Travel Planner",
+    "job_to_be_done": "Plan a trip of 4 days for a group of 10 college friends.",
+    "processing_timestamp": "2025-07-28T22:38:23.168479"
+  },
+  "extracted_sections": [
+    {
+      "document": "doc07",
+      "section_title": "Special Considerations",
+      "importance_rank": 1,
+      "page_number": 1
+    },
+    {
+      "document": "doc02",
+      "section_title": "Hotels",
+      "importance_rank": 2,
+      "page_number": 1
+    },
+    {
+      "document": "doc01",
+      "section_title": "Religious and Spiritual Traditions",
+      "importance_rank": 3,
+      "page_number": 1
+    },
+    {
+      "document": "doc07",
+      "section_title": "Tips and Tricks for Packing",
+      "importance_rank": 4,
+      "page_number": 1
+    },
+    {
+      "document": "doc07",
+      "section_title": "Conclusion",
+      "importance_rank": 5,
+      "page_number": 1
+    }
+  ],
+  "subsection_analysis": [
+    {
+      "document": "doc07",
+      "refined_text": "Beach Trips",
+      "page_number": 1
+    },
+    {
+      "document": "doc02",
+      "refined_text": "Budget-Friendly Hotels",
+      "page_number": 1
+    },
+    {
+      "document": "doc01",
+      "refined_text": "Pilgrimages",
+      "page_number": 1
+    },
+    {
+      "document": "doc07",
+      "refined_text": "• Use Packing Cubes: Organize clothes and maximize space. • Wear Bulky Items: Wear bulky items like coats or boots during travel to save suitcase space. • Pack a Day Bag: Bring a small day bag for daily excursions. • Leave Room for Souvenirs: Leave extra space or bring a foldable bag for souvenirs. • Additional Tips: Pack a small travel umbrella, a reusable shopping bag, and a portable phone charger.",
+      "page_number": 1
+    },
+    {
+      "document": "doc07",
+      "refined_text": "Packing for a trip to the South of France involves considering the season, planned activities, and the needs of both adults and children. By following this comprehensive guide and incorporating the tips and tricks provided, you'll be well-prepared for a comfortable and enjoyable trip. Remember to pack light, versatile clothing, and essential items to make the most of your travel experience.",
+      "page_number": 1
+    }
+  ]
+}
